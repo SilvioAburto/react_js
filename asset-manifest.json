@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "silvioaburto.github.io/react_js/static/css/main.d1b05096.chunk.css",
-    "main.js": "silvioaburto.github.io/react_js/static/js/main.cad7c59a.chunk.js",
-    "main.js.map": "silvioaburto.github.io/react_js/static/js/main.cad7c59a.chunk.js.map",
-    "runtime-main.js": "silvioaburto.github.io/react_js/static/js/runtime-main.d5095ea6.js",
-    "runtime-main.js.map": "silvioaburto.github.io/react_js/static/js/runtime-main.d5095ea6.js.map",
-    "static/js/2.3a29a47f.chunk.js": "silvioaburto.github.io/react_js/static/js/2.3a29a47f.chunk.js",
-    "static/js/2.3a29a47f.chunk.js.map": "silvioaburto.github.io/react_js/static/js/2.3a29a47f.chunk.js.map",
-    "index.html": "silvioaburto.github.io/react_js/index.html",
-    "precache-manifest.52071448cb6e36675e9b1f3dedc5d9c5.js": "silvioaburto.github.io/react_js/precache-manifest.52071448cb6e36675e9b1f3dedc5d9c5.js",
-    "service-worker.js": "silvioaburto.github.io/react_js/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "silvioaburto.github.io/react_js/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.3a29a47f.chunk.js.LICENSE": "silvioaburto.github.io/react_js/static/js/2.3a29a47f.chunk.js.LICENSE",
-    "static/media/logo.svg": "silvioaburto.github.io/react_js/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react_js/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react_js/static/js/main.085eef71.chunk.js",
+    "main.js.map": "/react_js/static/js/main.085eef71.chunk.js.map",
+    "runtime-main.js": "/react_js/static/js/runtime-main.05dbcbab.js",
+    "runtime-main.js.map": "/react_js/static/js/runtime-main.05dbcbab.js.map",
+    "static/js/2.3a29a47f.chunk.js": "/react_js/static/js/2.3a29a47f.chunk.js",
+    "static/js/2.3a29a47f.chunk.js.map": "/react_js/static/js/2.3a29a47f.chunk.js.map",
+    "index.html": "/react_js/index.html",
+    "precache-manifest.e8654deabb84c1a5c74bc4e308aacfca.js": "/react_js/precache-manifest.e8654deabb84c1a5c74bc4e308aacfca.js",
+    "service-worker.js": "/react_js/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react_js/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3a29a47f.chunk.js.LICENSE": "/react_js/static/js/2.3a29a47f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/react_js/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5095ea6.js",
+    "static/js/runtime-main.05dbcbab.js",
     "static/js/2.3a29a47f.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.cad7c59a.chunk.js"
+    "static/js/main.085eef71.chunk.js"
   ]
 }
